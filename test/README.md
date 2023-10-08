@@ -1,8 +1,9 @@
 ---
 sort: 1
+published: true
 ---
 
-# Test Documentation
+# Topics
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
