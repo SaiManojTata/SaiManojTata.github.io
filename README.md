@@ -1,20 +1,6 @@
-# jekyll-rtd-theme
+# Mathcrypt
 
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
-
-Just another documentation theme compatible with GitHub Pages
-
-## Quick start
-
-```yml
-remote_theme: rundocs/jekyll-rtd-theme
-```
-
-## Usage
-
-Documentation that can guide how to create with Github pages, please refer to [rundocs.io](https://rundocs.io) for details
-
+A cumulation of math pages. The documentation theme for Github Pages can be found [here](https://github.com/rundocs/jekyll-rtd-theme/). 
 
 ## The license
 
